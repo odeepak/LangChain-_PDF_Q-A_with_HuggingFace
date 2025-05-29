@@ -1,0 +1,8 @@
+streamlit
+langchain
+transformers
+huggingface_hub
+pypdf
+faiss-cpu
+sentence-transformers
+torch==2.6.0
